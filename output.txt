@@ -1,0 +1,27 @@
+********** CUSTOMER BALANCE REPORT **********
+
+Juan Perez        1000
+Maria Lopez       2500
+Carlos Ruiz       1500
+Ana Torres        3000
+Luis Martinez     1200
+Sofia Hernandez   2800
+Jorge Ramirez     900
+Laura Gomez       4100
+Pedro Sanchez     2300
+Elena Vargas      1750
+Miguel Castro     3600
+Diana Flores      2900
+Ricardo Ortega    800
+Patricia Reyes    2200
+Fernando Cruz     1950
+Gabriela Mendoza  3100
+Hector Morales    2700
+Monica Rios       1450
+Rafael Navarro    3800
+Adriana Salazar   2600
+
+--------------------------------------------
+TOTAL CUSTOMERS: 20
+--------------------------------------------
+END OF REPORT
